@@ -1,0 +1,5 @@
+Student: David
+Student ID: TUPM-26-1110
+Seed digit: 0
+ID sum: 11
+Verification value: 55
