@@ -1,0 +1,14 @@
+{
+    "last_name": "DAVID",
+    "student_id": "TUPM-26-1110",
+    "operating_system": "Android",
+    "user_behavior_class": 1,
+    "total_records": 700,
+    "records_matching_os": 554,
+    "records_in_target_class": 114,
+    "invalid_records": 0,
+    "average_battery_drain_mah_day": 452.61,
+    "average_data_usage_mb_day": 202.49,
+    "exported_row_count": 114,
+    "count_verified": true
+}

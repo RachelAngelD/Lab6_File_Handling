@@ -1,0 +1,31 @@
+CYBERSECURITY INCIDENT REPORT
+-----------------------------
+Last Name: David
+Student ID: TUPM-26-1110
+Target Year: 2015
+Total Records in Dataset: 3000
+Incidents in Target Year: 277
+Invalid Financial Values: 0
+
+Incident Count per Attack Type
+  Malware: 51
+  DDoS: 50
+  Ransomware: 47
+  Phishing: 46
+  SQL Injection: 42
+  Man-in-the-Middle: 41
+
+Total Financial Loss (USD millions): 14510.21
+Average Financial Loss (USD millions): 52.38
+
+Five Costliest Incidents
+  1. Germany | Ransomware | Telecommunications | 99.83
+  2. Australia | Malware | Retail | 99.41
+  3. Australia | Phishing | Banking | 99.20
+  4. USA | SQL Injection | Education | 98.78
+  5. Russia | Man-in-the-Middle | Education | 98.58
+
+Output Files
+  Filtered CSV: David_TUPM-26-1110_incidents_2015.csv
+  JSON Summary: David_TUPM-26-1110_top5_incidents.json
+  Backup: David_TUPM-26-1110_top5_incidents.json (VERIFIED)

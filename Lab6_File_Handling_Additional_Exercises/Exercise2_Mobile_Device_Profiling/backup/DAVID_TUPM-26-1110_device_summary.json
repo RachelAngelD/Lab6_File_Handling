@@ -1,0 +1,16 @@
+{
+    "last_name": "DAVID",
+    "student_id": "TUPM-26-1110",
+    "total_records": 700,
+    "valid_records": 700,
+    "invalid_records": 0,
+    "average_battery_drain": 1525.16,
+    "average_data_usage": 929.74,
+    "behavior_class_counts": {
+        "4": 139,
+        "3": 143,
+        "2": 146,
+        "5": 136,
+        "1": 136
+    }
+}

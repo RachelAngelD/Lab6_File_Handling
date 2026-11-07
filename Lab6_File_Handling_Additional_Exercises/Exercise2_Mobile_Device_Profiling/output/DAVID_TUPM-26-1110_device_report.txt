@@ -1,0 +1,21 @@
+MOBILE DEVICE PROFILING REPORT
+------------------------------
+Last Name: DAVID
+Student ID: TUPM-26-1110
+Total Records: 700
+Valid Records: 700
+Invalid Records: 0
+Average Battery Drain: 1525.16 mAh/day
+Average Data Usage: 929.74 MB/day
+
+Behavior Class Counts:
+  Class 4: 139
+  Class 3: 143
+  Class 2: 146
+  Class 5: 136
+  Class 1: 136
+
+Output Files
+  Filtered CSV: DAVID_TUPM-26-1110_device_profile.csv
+  JSON Summary: DAVID_TUPM-26-1110_device_summary.json
+  Backup: DAVID_TUPM-26-1110_device_summary.json (VERIFIED)
